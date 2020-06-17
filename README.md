@@ -1,5 +1,8 @@
 # hello-world
 learning to use Git-Hub
-Just trying to learn a little about GitHub.  I think it will be a good tool.
+Just trying to learn a little about GitHub.  I know it will be a good tool.
 
-Not going so well.  Master and read-me are the same.
+oh blah de oh blah dah life goes on
+oh la la la la life goes on
+oh blah de oh blah dah life goes on
+oh la la la la life goes on
